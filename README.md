@@ -20,7 +20,7 @@ Clone this repository to your local machine:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/banking-system-python.git
+git clone https://github.com/nihal473/banking-system.git
 Navigate into the project directory:
 
 bash
